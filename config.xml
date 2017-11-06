@@ -4,7 +4,7 @@
   <description>
       Whateva'.
   </description>
-   <icon src="genesis/LOGO.jpg" />
+   <icon src="genesis/LOGO.jpg" density="ldpi" />
   <author email="dev@cordova.apache.org" href="http://cordova.io">
       Ashwith
   </author>
